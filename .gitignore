@@ -1,2 +1,3 @@
 *.dSYM
 ./helloworld.dSYM
+.vscode
