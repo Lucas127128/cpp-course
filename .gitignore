@@ -1,4 +1,4 @@
-*.dSYM
+*dSYM
 ./helloworld.dSYM
 .vscode
 .DS_Store
