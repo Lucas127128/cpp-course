@@ -6,7 +6,7 @@ int main() {
     int y=6;
     int sum = x+y;
 
-    //numbers with decimal place
+    //numbers with decimal places
     double temperature = 40.0;
     double gpa = 1.0;
 
