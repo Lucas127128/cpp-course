@@ -17,7 +17,7 @@
       {
         "label": "Run C++",
         "type": "shell",
-        "command": "${fileDirname}/${fileBasenameNoExtension};",
+        "command": "clang++ ${file} -o ${fileDirname}/${fileBasenameNoExtension}; ${fileDirname}/${fileBasenameNoExtension};",
         "presentation": {
           "echo": true,
           "reveal": "always",
