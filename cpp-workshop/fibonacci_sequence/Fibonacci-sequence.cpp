@@ -13,9 +13,8 @@ int main() {
     }
     int QantityOfNumber=quantityOfNumber-1;
     for (int i = 0;i<=QantityOfNumber;i++) {
-        cout << a[i];
+        cout << a[i] << '\n';
     }
     cout << '\n';
-    //cout << a[quantityOfNumber-1];
     return 0;
 }
